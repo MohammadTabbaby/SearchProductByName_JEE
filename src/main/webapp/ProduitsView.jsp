@@ -12,7 +12,6 @@
     </form>
 
     <table border="2" width="80%">
-    <table border="2" width="80%">
         <tr>
             <th>ID</th><th>Nom</th><th>Prix</th>
         </tr>
